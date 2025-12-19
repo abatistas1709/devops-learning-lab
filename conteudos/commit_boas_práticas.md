@@ -95,4 +95,5 @@
 
 ---
 
-👉🏻 [Clique aqui para voltar ao Readme](../README.md) 📒
+* 👉🏻 [Clique aqui para voltar ao cheat sheet do Git](git_cheat_sheet.md) 📒
+* 👉🏻 [Clique aqui para voltar ao Readme](../README.md) 📒
